@@ -1,0 +1,11 @@
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\obj\Debug\Trivia.vbprojResolveAssemblyReference.cache
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\obj\Debug\Trivia.Resources.resources
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\obj\Debug\Trivia.vbproj.GenerateResource.Cache
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\obj\Debug\Trivia.vbproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\bin\Debug\Trivia.exe.config
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\bin\Debug\Trivia.exe
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\bin\Debug\Trivia.pdb
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\bin\Debug\Trivia.xml
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\obj\Debug\Trivia.exe
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\obj\Debug\Trivia.xml
+C:\Users\Spencer\source\repos\trivia\VB.NET\Trivia\Trivia\obj\Debug\Trivia.pdb
