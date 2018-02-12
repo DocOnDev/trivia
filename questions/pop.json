@@ -1,0 +1,107 @@
+{
+  "response_code":0,
+  "results":[
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"What breed of dog was &#039;Marley&#039; in the film &#039;Marley &amp; Me&#039;?","correct_answer":"Labrador Retriever","incorrect_answers":["Golden Retriever","Dalmatian","Shiba Inu"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.","correct_answer":"Hogarth Hughes","incorrect_answers":["Kent Mansley","Dean McCoppin","Annie Hughes"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing\tspree?","correct_answer":"Westworld","incorrect_answers":["Runaway","Android","The Terminators"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"Who starred in the film 1973 movie &quot;Enter The Dragon&quot;?","correct_answer":"Bruce Lee","incorrect_answers":["Jackie Chan","Jet Li"," Yun-Fat Chow"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"easy","question":"The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.","correct_answer":"True","incorrect_answers":["False"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"Which movie contains the quote, &quot;Say hello to my little friend!&quot;?","correct_answer":"Scarface","incorrect_answers":["Reservoir Dogs","Heat","Goodfellas"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"easy","question":"The film &quot;2001: A Space Odyssey&quot; was released on December 31st, 2000.","correct_answer":"False","incorrect_answers":["True"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?","correct_answer":"Quentin Tarantino","incorrect_answers":["Martin Scorcese","Steven Spielberg","James Cameron"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"medium","question":"There aren&#039;t any live-action clones in &quot;Star Wars: Episode III - Revenge of the Sith&quot;.","correct_answer":"True","incorrect_answers":["False"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In which 1955 film does Frank Sinatra play Nathan Detroit?","correct_answer":"Guys and Dolls","incorrect_answers":["Anchors Aweigh","From Here to Eternity","High Society"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?","correct_answer":"Gort","incorrect_answers":["Robby","Colossus","Box"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"What was the title of the first Bond movie, released in 1962?","correct_answer":"Dr. No","incorrect_answers":["From Russia with Love","Goldfinger","Thunderball"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ","correct_answer":"Chocolate syrup","incorrect_answers":["Ketchup","Red food coloring","Maple syrup"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which of the following James Bond villains is not affiliated with the SPECTRE organization?","correct_answer":"Auric Goldfinger","incorrect_answers":["Dr. Julius No","Rosa Klebb","Emilio Largo"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Who directed the 1973 film &quot;American Graffiti&quot;?","correct_answer":"George Lucas","incorrect_answers":["Ron Howard","Francis Ford Coppola","Steven Spielberg"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"This movie contains the quote, &quot;Nobody puts Baby in a corner.&quot;","correct_answer":"Dirty Dancing","incorrect_answers":["Three Men and a Baby","Ferris Bueller&#039;s Day Off","Pretty in Pink"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?","correct_answer":"Sierra Leone","incorrect_answers":["Liberia","Burkina Faso","Central African Republic"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?","correct_answer":"Terry","incorrect_answers":["Tommy","Teddy","Toto"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In what year was the first Transformers movie released?","correct_answer":"1986","incorrect_answers":["2007","1984","2009"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"easy","question":"The word &quot;Inception&quot; came from the 2010 blockbuster hit &quot;Inception&quot;.","correct_answer":"False","incorrect_answers":["True"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"What is the name of the first &quot;Star Wars&quot; film by release order?","correct_answer":"A New Hope","incorrect_answers":["The Phantom Menace","The Force Awakens","Revenge of the Sith"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?","correct_answer":"50 mph","incorrect_answers":["60 mph","40 mph","70 mph"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"medium","question":"The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.","correct_answer":"True","incorrect_answers":["False"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which one of these films are shot entirely in one-take?","correct_answer":"Russian Ark","incorrect_answers":["Good Will Hunting","Birdman","Schindler&#039;s List"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?","correct_answer":"The Shining","incorrect_answers":["2001: A Space Odyssey"," Dr. Strangelove ","Eyes Wide Shut"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"In the 1964 film &quot;Zulu&quot;, what song does the British Army company sing before the final battle?","correct_answer":"Men of Harlech","incorrect_answers":["Scotland the Brave","Colonel Bogey March","The British Grenadiers"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"In the movie &quot;Scream&quot; who is Ghost Face?","correct_answer":"Billy Loomis and Stu Macher","incorrect_answers":["Dewey Riley","Sidney Prescott","Archie Prescott and Philip Marv"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"easy","question":"In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.","correct_answer":"True","incorrect_answers":["False"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"hard","question":"&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.","correct_answer":"False","incorrect_answers":["True"]}
+    ,
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?","correct_answer":"United Kingdom","incorrect_answers":["France","Italy","Germany"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?","correct_answer":"&quot;No. I am your father.&quot;","incorrect_answers":["&quot;Luke, I am your father.&quot;","&quot;You&#039;re wrong. I am your father.&quot;","&quot;The truth is that I am your father.&quot;"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"This trope refers to minor characters that are killed off to show how a monster works.","correct_answer":"Red Shirt","incorrect_answers":["Minions","Expendables","Cannon Fodder"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"What was the first monster to appear alongside Godzilla?","correct_answer":"Anguirus","incorrect_answers":["King Kong","Mothra","King Ghidora"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?","correct_answer":"Gunnar Hansen","incorrect_answers":["Edwin Neal","John Dugan","Joe Bill Hogan"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"What city did the monster attack in the film, &quot;Cloverfield&quot;?","correct_answer":"New York, New York","incorrect_answers":["Las Vegas, Nevada","Chicago, Illinois","Orlando, Florida"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?","correct_answer":"Aloysius O&#039;Hare","incorrect_answers":["Ted Wiggins","The Once-Ler","Grammy Norma"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"The 2016 Disney animated film &#039;Moana&#039; is based on which culture?","correct_answer":"Polynesian","incorrect_answers":["Native American","Japanese","Nordic"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?","correct_answer":"Kaltag, Nikki, and Star","incorrect_answers":["Dusty, Kirby, and Ralph","Nuk, Yak, and Sumac","Jenna, Sylvie, and Dixie"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?","correct_answer":"Edgar Wright","incorrect_answers":["Phil Lord","Chris Miller","Seth Rogan"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?","correct_answer":"1971","incorrect_answers":["1975","1983","1969"]
+    },
+    {"category":"Entertainment: Film","type":"boolean","difficulty":"hard","question":"The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.","correct_answer":"False","incorrect_answers":["True"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?","correct_answer":"Isla Sorna","incorrect_answers":["Isla Nublar","Isla Pena","Isla Muerta"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"What is the make and model of the tour vehicles in &quot;Jurassic Park&quot;?","correct_answer":"1992 Ford Explorer XLT","incorrect_answers":["1992 Toyota Land Cruiser","1992 Jeep Wrangler YJ Sahar","Mercedes M-Class"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?","correct_answer":"2005","incorrect_answers":["2007","2015","2020"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"Before &quot;Jurassic Park III&quot; was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?","correct_answer":"Baryonyx","incorrect_answers":["Tyrannosaurus Rex","Velociraptor","Suchomimus"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Who directed the movie &quot;Alien&quot;?","correct_answer":"Ridley Scott","incorrect_answers":["Christopher Nolan","Michael Bay","James Cameron"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"hard","question":"Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ","correct_answer":"Clint Eastwood, Eli Wallach, and Lee Van Cleef","incorrect_answers":["Sergio Leone, Ennio Morricone, and Tonino Delli Colli","Yul Brynner, Steve McQueen, and Charles Bronson","Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?","correct_answer":"Groovy.","incorrect_answers":["Gnarly.","Perfect.","Nice."]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"What Queen song plays during the final fight scene of the film &quot;Hardcore Henry&quot;?","correct_answer":"Don&#039;t Stop Me Now","incorrect_answers":["Brighton Rock","Another Bites the Dust","We Will Rock You"]
+    },
+    {"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?","correct_answer":"Corey Feldman","incorrect_answers":["Macaulay Culkin","Mel Gibson","Mark Hamill"]
+    }
+  ]
+}
+
+/* https://opentdb.com/api.php?amount=50&category=11 */
